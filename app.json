@@ -1,5 +1,17 @@
 {
   "expo": {
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#3d44cd",
+        "foregroundImage": "./assets/adaptive-icon.png"
+      },
+      "edgeToEdgeEnabled": true,
+      "package": "com.veidzvj.goalsapp"
+    },
+    "ios": {
+      "bundleIdentifier": "com.veidzvj.goalsapp",
+      "icon": "./assets/ios-icon.png"
+    },
     "name": "goals-app",
     "slug": "goals-app",
     "version": "1.0.0"

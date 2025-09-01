@@ -1,4 +1,4 @@
-package com.goalsapp
+package com.veidzvj.goalsapp
 
 import android.app.Application
 import android.content.res.Configuration

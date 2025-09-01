@@ -1,4 +1,4 @@
-package com.goalsapp
+package com.veidzvj.goalsapp
 
 import android.os.Build
 import android.os.Bundle
