@@ -14,7 +14,8 @@
     },
     "name": "goals-app",
     "plugins": [
-      "expo-router"
+      "expo-router",
+      "expo-font"
     ],
     "scheme": "goals-app",
     "slug": "goals-app",
