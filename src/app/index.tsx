@@ -1,5 +1,5 @@
-import { HomeHeader } from "@/components/HomeHeader"
 import { View } from "react-native"
+import { HomeHeader } from "@/components/HomeHeader"
 
 export default function Index() {
   return (
