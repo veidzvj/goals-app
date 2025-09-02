@@ -13,6 +13,10 @@
       "icon": "./assets/ios-icon.png"
     },
     "name": "goals-app",
+    "plugins": [
+      "expo-router"
+    ],
+    "scheme": "goals-app",
     "slug": "goals-app",
     "version": "1.0.0"
   }
